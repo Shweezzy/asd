@@ -1,0 +1,12 @@
+.postImage {
+  width: 4em;
+  height: 3.6em;
+  border-radius: 60px;
+  margin-bottom: 0.5em;
+}
+.postDiv {
+  display: flex;
+}
+.postMsg {
+  margin: 1em;
+}
