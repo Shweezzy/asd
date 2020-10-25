@@ -1,7 +1,7 @@
 import React from "react";
 
 const News = (props) => {
-  return <nav>NEWS</nav>;
+    return <nav>NEEEWS</nav>;
 };
 
 export default News;
